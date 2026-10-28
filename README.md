@@ -117,3 +117,17 @@ App 转发到服务器做金额比对（作者另一款 Xposed 插件也支持�
 ## 许可
 
 专有软件，详见发行包内 `LICENSE`。使用、授权与商业分发请联系著作权人。
+
+## 效果预览
+
+<img width="898" height="941" alt="授权区域" src="https://github.com/user-attachments/assets/1b702a46-1681-46e8-9b77-57ae0101508c" />
+<img width="759" height="784" alt="到账检测" src="https://github.com/user-attachments/assets/c0ea6a3a-fc15-4916-9103-dc351c3d2b14" />
+<img width="822" height="798" alt="扫码登陆2" src="https://github.com/user-attachments/assets/4a1e9814-5b0e-4a96-ba73-3d8eb5e8056c" />
+<img width="1082" height="834" alt="账单列表" src="https://github.com/user-attachments/assets/9234d392-4e8e-4957-a5f1-67035b035311" />
+
+<img width="425" height="546" alt="手机端提示" src="https://github.com/user-attachments/assets/9b94ffd1-2921-4b58-a28c-7800f71bd82c" />
+<img width="520" height="923" alt="手机体验区1" src="https://github.com/user-attachments/assets/666fc038-c6f6-47f2-a9cb-c5a030be9a0c" />
+<img width="534" height="910" alt="手机体验区2" src="https://github.com/user-attachments/assets/c050b15e-df3c-4e56-ac81-b749e4a3cf2b" />
+<img width="503" height="919" alt="手机体验区3" src="https://github.com/user-attachments/assets/f55206d5-baec-4d55-9060-1da38f4d2e0e" />
+
+
