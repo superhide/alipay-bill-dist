@@ -123,7 +123,7 @@ App 转发到服务器做金额比对（作者另一款 Xposed 插件也支持�
 
 ## 效果预览
 
-<img width="898" height="941" alt="授权区域" src="https://github.com/user-attachments/assets/1b702a46-1681-46e8-9b77-57ae0101508c" />
+
 <img width="759" height="784" alt="到账检测" src="https://github.com/user-attachments/assets/c0ea6a3a-fc15-4916-9103-dc351c3d2b14" />
 <img width="822" height="798" alt="扫码登陆2" src="https://github.com/user-attachments/assets/4a1e9814-5b0e-4a96-ba73-3d8eb5e8056c" />
 <img width="1082" height="834" alt="账单列表" src="https://github.com/user-attachments/assets/9234d392-4e8e-4957-a5f1-67035b035311" />
